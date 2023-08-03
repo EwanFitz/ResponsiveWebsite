@@ -1,0 +1,72 @@
+html {
+    background-color: salmon;
+  }
+  body {
+     font-family: Cambria, Cochin, Georgia,  
+     Times, 'Times New Roman', serif;
+  }
+  .header {
+    background-color: snow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: Uppercase;
+  }
+  .header li {
+    display: inline;
+    padding-right: 2.22rem;
+    color: rgb(112, 106, 18);
+    text-decoration: none;
+  }
+  h1 {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 10rem;
+    margin-top: 10rem;
+  }
+  .main h3 {
+    color: yellow;
+    font-size: 1.5rem;
+  }
+  .main p {
+    color: white;
+  }
+  .main img {
+    height: 16rem;
+    width: 24rem;
+    position: relative;
+    border-radius: 20%;
+    margin: 10px;
+  }
+  .quote  {
+    background-color: snow;
+    color: rgb(112, 106, 18);
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+  }
+  .quote h2 {
+    font-size: 2rem;
+  }
+  .celebrate img {
+     height: 16rem;
+    width: 24rem;
+    position: relative;
+    border-radius: 20%;
+    margin: 10px;
+  }
+  .join h3 {
+    font-size: 1.5rem;
+    color: yellow;
+    text-align: center;
+  }
+  .join img {
+     height: 30rem;
+    width: 24rem;
+    border-radius: 20%;
+    margin: 10px;
+    display: inline;
+  }
