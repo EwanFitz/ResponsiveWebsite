@@ -1,1 +1,1 @@
-This was one of my first project after learning html and css. 
+This was one of my first projects after learning html and css. 
